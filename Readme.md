@@ -1,15 +1,3 @@
----
-author: "Arian komaei & Alireza Faraj Tabrizi"
-title: "Adversarial RL"
-date: 2025-09-10T22:55:00+03:30
-draft: true
-cover:
-  image: "adversaria_rl/life Cycle.png"        # quote because there’s a space
-  caption: "expgen overview animation"
-  hiddenInSingle: true
----
-
-
 # Adversarial Attacks on Reinforcement Learning Policies
 
 Reinforcement Learning (RL) has powered breakthroughs in games, robotics, and autonomous systems. But just like image classifiers can be fooled by carefully crafted adversarial examples, RL agents are also vulnerable to **adversarial attacks**. These attacks can manipulate the agent’s perception of the environment or its decision process, leading to unsafe or suboptimal behavior.
